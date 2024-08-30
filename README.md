@@ -4,17 +4,17 @@ This project is a bidirectional visitor counter that uses an Arduino microcontro
 
 # Components Used
 <hr>
-- Arduino: The core microcontroller that processes the sensor data and controls the buzzer.
-- IR Sensors: Two infrared sensors are used to detect the entry and exit of visitors. When a person passes through the sensors, the IR beam is interrupted, triggering the Arduino to update the visitor count.
-- Buzzer: The buzzer sounds an alert when certain conditions are met, such as reaching the maximum room capacity.
-- Display (Optional): An LCD or LED display can be added to show the current visitor count.
+Arduino: The core microcontroller that processes the sensor data and controls the buzzer.
+IR Sensors: Two infrared sensors are used to detect the entry and exit of visitors. When a person passes through the sensors, the IR beam is interrupted, triggering the Arduino to update the visitor count.
+Buzzer: The buzzer sounds an alert when certain conditions are met, such as reaching the maximum room capacity.
+Display (Optional): An LCD or LED display can be added to show the current visitor count.
 
 # Features
 <hr>
-- Bidirectional Counting: The system can accurately detect and count people entering and exiting a room.
-- Real-Time Monitoring: The visitor count is updated in real-time, ensuring accurate tracking.
-- Capacity Alert: The buzzer sounds when the room reaches its maximum capacity, preventing overcrowding.
-- Simple and Cost-Effective: The project uses readily available components and is easy to assemble.
+Bidirectional Counting: The system can accurately detect and count people entering and exiting a room.
+Real-Time Monitoring: The visitor count is updated in real-time, ensuring accurate tracking.
+Capacity Alert: The buzzer sounds when the room reaches its maximum capacity, preventing overcrowding.
+Simple and Cost-Effective: The project uses readily available components and is easy to assemble.
 
 # How It Works
 <hr>
@@ -25,9 +25,9 @@ This project is a bidirectional visitor counter that uses an Arduino microcontro
 
 # Applications
 <hr>
-- Room Occupancy Management: Ideal for managing the number of people in a room, such as in conference halls, auditoriums, and classrooms.
-- Retail Stores: Helps store managers monitor customer flow and ensure that occupancy limits are not exceeded.
-- Public Spaces: Useful in public places where crowd control is essential.
+Room Occupancy Management: Ideal for managing the number of people in a room, such as in conference halls, auditoriums, and classrooms.
+Retail Stores: Helps store managers monitor customer flow and ensure that occupancy limits are not exceeded.
+Public Spaces: Useful in public places where crowd control is essential.
 
 # Getting Started
 <hr>
